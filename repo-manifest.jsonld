@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/borgbackup/borgstore/commit/f6e41c191a368ada4fe41ad22d31adff3489d13c",
       "git:hexsha": "f6e41c191a368ada4fe41ad22d31adff3489d13c",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/borgbackup/borgstore/commit/f5accd59f42da208b7f97e967081cb43b7d20e41",
