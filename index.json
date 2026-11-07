@@ -1,0 +1,11 @@
+{
+  "org": "borgbackup",
+  "repo": "borgstore",
+  "versions": [
+    {
+      "commit": "f6e41c191a368ada4fe41ad22d31adff3489d13c",
+      "tag": "",
+      "parsed_at": "2026-11-07T08:11:00.455088+00:00"
+    }
+  ]
+}
